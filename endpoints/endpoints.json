@@ -45,7 +45,7 @@
 },
 {
     "name": "eosphereiobp",
-    "p2p": "wax-testnet.eosphere.io:9815",
+    "p2p": "peer1-wax-testnet.eosphere.io:9876",
     "api": "https://wax-testnet.eosphere.io"
 },
 {
